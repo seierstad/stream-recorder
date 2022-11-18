@@ -1,0 +1,19 @@
+{
+  "name": "stream-recorder",
+  "version": "0.0.1",
+  "description": "Web Audio API MediaStreamDestination to ogg/opus-file recorder",
+  "main": "stream-recorder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seierstad/stream-recorder.git"
+  },
+  "author": "Erik E. Seierstad",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/seierstad/stream-recorder/issues"
+  },
+  "homepage": "https://github.com/seierstad/stream-recorder#readme"
+}
